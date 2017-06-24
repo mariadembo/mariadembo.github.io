@@ -1,36 +1,36 @@
-@font-face {
-	font-family: 'cobe';
-	src: url('font/cobe-bold.eot');
-	src: url('font/cobe-bold.eot?#iefix') format('embedded-opentype'),
-	     url('font/cobe-bold.woff') format('woff'),
-		 url('font/cobe-bold.ttf') format('truetype'),
-		 url('font/cobe-bold.svg#cobebold') format('svg');
-	font-weight: bold;
-	font-style: normal;
-}
+/*@font-face {*/
+	/*font-family: 'cobe';*/
+	/*src: url('font/cobe-bold.eot');*/
+	/*src: url('font/cobe-bold.eot?#iefix') format('embedded-opentype'),*/
+	     /*url('font/cobe-bold.woff') format('woff'),*/
+		 /*url('font/cobe-bold.ttf') format('truetype'),*/
+		 /*url('font/cobe-bold.svg#cobebold') format('svg');*/
+	/*font-weight: bold;*/
+	/*font-style: normal;*/
+/*}*/
 
-@font-face {
-	font-family: 'cobe';
-	src: url('font/cobe-bold.eot');
-	src: url('font/cobe-bold.eot?#iefix') format('embedded-opentype'),
-	     url('font/cobe-bold.woff') format('woff'),
-		 url('font/cobe-bold.ttf') format('truetype'),
-		 url('font/cobe-bold.svg#cobebold') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
+/*@font-face {*/
+	/*font-family: 'cobe';*/
+	/*src: url('font/cobe-bold.eot');*/
+	/*src: url('font/cobe-bold.eot?#iefix') format('embedded-opentype'),*/
+	     /*url('font/cobe-bold.woff') format('woff'),*/
+		 /*url('font/cobe-bold.ttf') format('truetype'),*/
+		 /*url('font/cobe-bold.svg#cobebold') format('svg');*/
+	/*font-weight: normal;*/
+	/*font-style: normal;*/
+/*}*/
 
-@font-face {
-	font-family: 'cobe-text';
-	src: url('font/cobe-text.eot');
-	src: local('☺'),
-		 url('font/cobe-text.eot?#iefix') format('embedded-opentype'),
-	     url('font/cobe-text.woff') format('woff'),
-	     url('font/cobe-text.ttf') format('truetype'),
-	     url('font/cobe-text.svg#webfontcClsO0g3') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
+/*@font-face {*/
+	/*font-family: 'cobe-text';*/
+	/*src: url('font/cobe-text.eot');*/
+	/*src: local('☺'),*/
+		 /*url('font/cobe-text.eot?#iefix') format('embedded-opentype'),*/
+	     /*url('font/cobe-text.woff') format('woff'),*/
+	     /*url('font/cobe-text.ttf') format('truetype'),*/
+	     /*url('font/cobe-text.svg#webfontcClsO0g3') format('svg');*/
+	/*font-weight: normal;*/
+	/*font-style: normal;*/
+/*}*/
 
 
 * {
@@ -123,8 +123,8 @@ span.line {
 	line-height:1.23076em;
 	vertical-align:middle;
 	color:#fff;
-	background-color:#ff007f;
-	opacity:0.8;
+	background-color: #ff007f;
+	opacity:1;
 	display:block;
 	float:left;
 	clear:both;
@@ -210,7 +210,7 @@ div.inactive a:hover {
 
 .blocktext div.text p * {
 	display:inline;	
-	background-color:#ff007f;
+	background-color: #77ffa6;
 	color:#fff;
 }
 
@@ -223,8 +223,8 @@ div.inactive a:hover {
 }
 
 .blocktext.link a:hover span.line{
-	background-color:#ff007f;
-	color: black;
+	background-color: #222222;
+	color: #ff007f;
 }
 
 /* blocks */
@@ -519,4 +519,12 @@ form#mailchimpsignupIndexForm div.submit input::-moz-focus-inner {
 .clear {
 	clear:both;
 	overflow:hidden;
+}
+
+.article {
+	min-width: 600px;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
 }
