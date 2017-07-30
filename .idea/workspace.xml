@@ -8,7 +8,8 @@
     <list default="true" id="ef7fc64b-b951-4533-b3fe-d44fbcb08600" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.min.js" afterPath="$PROJECT_DIR$/js/script.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lucavsala/index.html" afterPath="$PROJECT_DIR$/lucavsala/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,11 +21,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+            <state relative-caret-position="-975">
+              <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -87,8 +88,8 @@
       <file leaf-file-name="script.min.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/script.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            <state relative-caret-position="407">
+              <caret line="73" column="54" lean-forward="false" selection-start-line="73" selection-start-column="54" selection-end-line="73" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -104,8 +105,18 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="81" column="1" lean-forward="false" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
+            <state relative-caret-position="259">
+              <caret line="92" column="14" lean-forward="true" selection-start-line="92" selection-start-column="14" selection-end-line="92" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lucavsala/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -135,6 +146,10 @@
       <find>opacity</find>
       <find>ff007f</find>
       <find>opa</find>
+      <find>604</find>
+      <find>info clickable</find>
+      <find>max-wi</find>
+      <find>info</find>
     </findStrings>
     <replaceStrings>
       <replace>wda</replace>
@@ -152,11 +167,12 @@
         <option value="$PROJECT_DIR$/COBE - Projects.html" />
         <option value="$PROJECT_DIR$/css/cobe-style.css" />
         <option value="$PROJECT_DIR$/js/cobe-script.min.js" />
-        <option value="$PROJECT_DIR$/js/script.min.js" />
         <option value="$PROJECT_DIR$/template.html" />
         <option value="$PROJECT_DIR$/parametric-lamp/index.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/script.min.js" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/lucavsala/index.html" />
       </list>
     </option>
   </component>
@@ -232,6 +248,34 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="lucavsala" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mariadembo.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mariadembo.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mariadembo.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mariadembo.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -278,15 +322,6 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/kekava-house/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/liepaja-brewery/1.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/liepaja-brewery/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/lucavsala/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/parametric-lamp/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/park-in-imanta/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/summer-house/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/toyota-showroom/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/ventamonjaks/index.html</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -294,25 +329,10 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/kitchen-project/1.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/kitchen-project/2.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/kitchen-project/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/liepaja-brewery/2.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/liepaja-brewery/3.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/liepaja-brewery/4.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/liepaja-brewery/5.JPG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/liepaja-brewery/6.JPG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/parametric-lamp/2.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/parametric-lamp/3.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/parametric-lamp/4.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/parametric-lamp/5.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/parametric-lamp/6.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/parametric-lamp/7.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/toyota-showroom/2.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/toyota-showroom/3.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/toyota-showroom/4.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/toyota-showroom/5.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/toyota-showroom/6.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/contact/1.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/contact/2.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/contact/3.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/contact/index.html</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -497,7 +517,7 @@
       <updated>1498306228652</updated>
       <workItem from="1498306229808" duration="10238000" />
       <workItem from="1498319031580" duration="12754000" />
-      <workItem from="1501444089899" duration="474000" />
+      <workItem from="1501444089899" duration="1611000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1498319064886</created>
@@ -548,11 +568,18 @@
       <option name="project" value="LOCAL" />
       <updated>1498335946529</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added content">
+      <created>1501444575852</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1501444575852</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23466000" />
+    <option name="totallyTimeSpent" value="24603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -562,6 +589,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -574,7 +602,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -774,14 +801,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lighting-store/1.png" />
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
@@ -796,14 +815,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="81" column="1" lean-forward="false" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kitchen-project/1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -811,8 +822,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        <state relative-caret-position="-975">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -824,6 +835,30 @@
             <element signature="n#style#0;n#img#0;n#a#0;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="73" column="54" lean-forward="false" selection-start-line="73" selection-start-column="54" selection-end-line="73" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="92" column="14" lean-forward="true" selection-start-line="92" selection-start-column="14" selection-end-line="92" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lucavsala/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

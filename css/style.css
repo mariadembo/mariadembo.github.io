@@ -89,8 +89,8 @@ span.line {
 	line-height:1.23076em;
 	vertical-align:middle;
 	color:#fff;
-	background-color: #222222;
-	opacity:0.5;
+	/*background-color: rgba(0, 0, 0, 0.5);*/
+	opacity:1;
 	display:block;
 	float:left;
 	clear:both;
@@ -249,7 +249,8 @@ div.projectposter.border img {
 /* thumb rollover layers */
 
 div.info {
-/*	max-width:226px;  246 - 2x10 i padding */	
+/*	max-width:226px;  246 - 2x10 i padding */
+	background-color: rgba(0, 0, 0, 0.5);
 	width:100%;
 	position:absolute;
 	z-index:2;
