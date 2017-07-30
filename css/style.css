@@ -50,13 +50,13 @@ a:active, a:selected, a:focus {
 
 h1 {
 	font-weight:normal;	
-	font-family:"cobe",arial,helvetica,sans-serif;
+	font-family:"Segoe UI Light",arial,helvetica,sans-serif;
 	font-size:2.2em;
 }
 
 h2 {
 	font-weight:normal;	
-	font-family:"cobe",arial,helvetica,sans-serif;
+	font-family:"Segoe UI Light",arial,helvetica,sans-serif;
 	font-size:1.6em;
 }
 
@@ -82,27 +82,31 @@ video {
 }
 
 span.line {
-	font-size:1.2em;
+	font-size:1em;
 /*	padding:0px 4px 0px 4px;*/
 	padding:0 .3em 0 .3em;
 	height:1.38461em;
 	line-height:1.23076em;
 	vertical-align:middle;
 	color:#fff;
-	/*background-color: rgba(0, 0, 0, 0.5);*/
 	opacity:1;
 	display:block;
 	float:left;
 	clear:both;
 	white-space:nowrap;	/* fixes bug in mobile safari and explorer */
-	font-family:"cobe",arial,helvetica,sans-serif;
+	font-family:"Segoe UI Light",arial,helvetica,sans-serif;
+}
+
+span.line-page {
+	background-color: rgba(0, 0, 0, 1);
+	font-size:1.2em;
 }
 
 /* header with menu */
 
 div#header {
 	overflow:auto;
-	font-family:"cobe",arial,helvetica,sans-serif;
+	font-family:"Segoe UI Light",arial,helvetica,sans-serif;
 }
 
 div#header div.column {
@@ -260,7 +264,7 @@ div.info {
 /*	visibility:hidden;*/
 /*	display:none;*/
 	font-weight:bold;
-	font-family:"cobe",arial,helvetica,sans-serif;
+	font-family:"Segoe UI Light",arial,helvetica,sans-serif;
 	padding:4px;	
 /*	font-size:1.3em;
 	line-height:1.8em;*/
@@ -270,6 +274,8 @@ div.info {
 }
 
 div.info div.infotext {
+	padding:4px;
+	font-size:0.5em;
 	float:none;
 	clear:both;	
 }
@@ -302,7 +308,7 @@ div.info div.infotext h1 {
 }
 
 div.info div.infotext h1 span.line {
-	font-family:"cobe",arial,helvetica,sans-serif;
+	font-family:"Segoe UI Light",arial,helvetica,sans-serif;
 	font-weight:bold;
 	font-size:28px;	
 	line-height:36px;
@@ -456,7 +462,7 @@ form#mailchimpsignupIndexForm div.submit input {
 	margin:0;
 	height:1.8em;
 	font-size:1.1em;	
-	font-family:"cobe",arial,helvetica,sans-serif;
+	font-family:"Segoe UI Light",arial,helvetica,sans-serif;
 	outline: none;		
 	background-color:#000;
 	color:#FFF;
