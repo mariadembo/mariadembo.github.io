@@ -33,7 +33,7 @@ table {
 
 a {
 	text-decoration:underline;
-	color: #29ff22;
+	color: black;
 	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
 	outline:none;
 }
