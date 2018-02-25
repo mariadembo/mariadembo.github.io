@@ -69,7 +69,8 @@ div#page {
 
 img {
 	image-rendering: optimizeQuality;  /* Firefox 3.6+; default behavior is identical, no need to specify */
- 	-ms-interpolation-mode: bicubic;  
+ 	-ms-interpolation-mode: bicubic;
+margin-top: 6px;  
 }
 
 video {
