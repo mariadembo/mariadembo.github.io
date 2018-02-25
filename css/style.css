@@ -1,4 +1,5 @@
 
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
 * {
 	margin:0;
 	padding:0;
@@ -50,13 +51,13 @@ a:active, a:selected, a:focus {
 
 h1 {
 	font-weight:normal;	
-	font-family:"Segoe UI Light",arial,helvetica,sans-serif;
+	font-family: 'Didact Gothic', sans-serif;
 	font-size:2.2em;
 }
 
 h2 {
 	font-weight:normal;	
-	font-family:"Segoe UI Light",arial,helvetica,sans-serif;
+	font-family: 'Didact Gothic', sans-serif;
 	font-size:1.6em;
 }
 
@@ -95,7 +96,7 @@ span.line {
 	float:left;
 	clear:both;
 	white-space:nowrap;	/* fixes bug in mobile safari and explorer */
-	font-family:"Segoe UI Light",arial,helvetica,sans-serif;
+	font-family: 'Didact Gothic', sans-serif;
 }
 
 span.line-page {
@@ -107,7 +108,7 @@ span.line-page {
 
 div#header {
 	overflow:auto;
-	font-family:"Segoe UI Light",arial,helvetica,sans-serif;
+	font-family: 'Didact Gothic', sans-serif;
 }
 
 div#header div.column {
@@ -265,7 +266,7 @@ div.info {
 /*	visibility:hidden;*/
 /*	display:none;*/
 	font-weight:bold;
-	font-family:"Segoe UI Light",arial,helvetica,sans-serif;
+	font-family: 'Didact Gothic', sans-serif;
 	padding:4px;	
 /*	font-size:1.3em;
 	line-height:1.8em;*/
@@ -310,7 +311,7 @@ div.info div.infotext h1 {
 }
 
 div.info div.infotext h1 span.line {
-	font-family:"Segoe UI Light",arial,helvetica,sans-serif;
+	font-family: 'Didact Gothic', sans-serif;
 	font-weight:bold;
 	font-size:28px;	
 	line-height:36px;
@@ -464,7 +465,7 @@ form#mailchimpsignupIndexForm div.submit input {
 	margin:0;
 	height:1.8em;
 	font-size:1.1em;	
-	font-family:"Segoe UI Light",arial,helvetica,sans-serif;
+	font-family: 'Didact Gothic', sans-serif;
 	outline: none;		
 	background-color:#000;
 	color:#FFF;
