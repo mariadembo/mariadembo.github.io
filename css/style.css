@@ -288,6 +288,7 @@ div.info.on div.infotext {
 
 div.info.clickable {
 	cursor:pointer;
+	margin-top:6px;
 }
 
 
